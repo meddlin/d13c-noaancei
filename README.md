@@ -14,4 +14,4 @@ Data found here: [https://www.ncei.noaa.gov/data/oceans/ncei/ocads/data/0157698/
 
 - [https://www.unidata.ucar.edu/blogs/news/entry/netcdf-java-version-5-6](https://www.unidata.ucar.edu/blogs/news/entry/netcdf-java-version-5-6)
 - [https://github.com/Unidata/netcdf-java/releases/tag/v5.6.0](https://github.com/Unidata/netcdf-java/releases/tag/v5.6.0)
-- [https://www.unidata.ucar.edu/software/netcdf/examples/files.html](https://www.unidata.ucar.edu/software/netcdf/examples/files.html)
+- [https://archive.unidata.ucar.edu/software/netcdf/examples/files.html](https://archive.unidata.ucar.edu/software/netcdf/examples/files.html)
